@@ -1,0 +1,10 @@
+.media {
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+  
+.media .avatar {
+    max-height: 80px;
+    max-height: 80 px;
+    border-radius: 50%;
+}
